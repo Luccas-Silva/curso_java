@@ -1,0 +1,8 @@
+package model.service;
+
+public class BrazilInterestService {
+	
+	double interestRate;
+	double payment(double amount, int months);
+
+}

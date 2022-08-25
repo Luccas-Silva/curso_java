@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;entities&apos; to &apos;TreeSet/src&apos;&#x0D;&#x0A;- Original project: &apos;Set_Hash&apos;&#x0D;&#x0A;- Destination element: &apos;TreeSet/src&apos;&#x0D;&#x0A;- Original element: &apos;Set_Hash/src/entities&apos;" description="Copy package" destination="=TreeSet/src" element1="/src&lt;entities" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1653355800627" version="1.0"/>
+</session>

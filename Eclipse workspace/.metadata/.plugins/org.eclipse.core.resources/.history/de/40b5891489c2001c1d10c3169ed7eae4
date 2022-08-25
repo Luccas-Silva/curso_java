@@ -1,0 +1,8 @@
+package model.service;
+
+public interface BrazilInterestService {
+	
+	public static final double interestRate = 0;
+	double payment(double amount, int months);
+
+}
