@@ -1,4 +1,4 @@
-package Alpha_00;
+package src.Alpha;
 import java.util.Scanner;
 
 public class Alpha_001 {
