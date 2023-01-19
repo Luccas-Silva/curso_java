@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Luccas\Desktop\Curso_Java\Eclipse workspace\workshop-springboot-jpa\course_Stoico"/>
+			<item value="C:\Users\Luccas\Desktop\Curso_Java\Eclipse workspace\course_Stoico"/>
 			<item value="C:\Users\lucca\OneDrive\Área de Trabalho\Programas\Programas em JavaScript\Rank_WebSite\BackEnd"/>
 			<item value="C:\Users\lucca\OneDrive\Área de Trabalho\Programas\Programas em JavaScript\Movies_WebSite\BackEnd"/>
 			<item value="C:\Users\lucca\OneDrive\Área de Trabalho\Programas\Projetos\dsMovies\backend"/>
@@ -92,5 +94,11 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="400"/>
+		<item key="y" value="143"/>
 	</section>
 </section>
